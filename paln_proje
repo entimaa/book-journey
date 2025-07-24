@@ -1,16 +1,16 @@
 src/
 ├── screens/
-│   ├── HomeScreen.js         // قائمة الكتب الرئيسية
-│   ├── AddBookScreen.js      // إضافة كتاب جديد
-│   ├── BookDetailsScreen.js  // تفاصيل الكتاب
-│   ├── QuotesScreen.js       // عرض/إضافة اقتباسات
-│   ├── LibrariesScreen.js    // المكتبات القريبة
-│   └── ProfileScreen.js      // الملف الشخصي
+│   ├── HomeScreen.js       
+│   ├── AddBookScreen.js      
+│   ├── BookDetailsScreen.js 
+│   ├── QuotesScreen.js       
+│   ├── LibrariesScreen.js    
+│   └── ProfileScreen.js      
 ├── components/
-│   ├── BookItem.js           // عنصر كتاب في القائمة
-│   ├── QuoteCard.js          // بطاقة اقتباس
-│   └── Header.js             // شريط العنوان المشترك
+│   ├── BookItem.js           
+│   ├── QuoteCard.js         
+│   └── Header.js             
 ├── navigation/
-│   └── AppNavigator.js       // تنقل بين الصفحات
+│   └── AppNavigator.js      
 └── styles/
-    └── globalStyles.js       // الأنماط العامة
+    └── globalStyles.js     
